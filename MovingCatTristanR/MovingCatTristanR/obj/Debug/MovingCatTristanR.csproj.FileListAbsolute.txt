@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\MovingCatTristanR\MovingCatTristanR\bin\Debug\MovingCatTristanR.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\MovingCatTristanR\MovingCatTristanR\bin\Debug\MovingCatTristanR.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\MovingCatTristanR\MovingCatTristanR\bin\Debug\MovingCatTristanR.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\MovingCatTristanR\MovingCatTristanR\obj\Debug\MovingCatTristanR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\MovingCatTristanR\MovingCatTristanR\obj\Debug\MovingCatTristanR.Form1.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\MovingCatTristanR\MovingCatTristanR\obj\Debug\MovingCatTristanR.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\MovingCatTristanR\MovingCatTristanR\obj\Debug\MovingCatTristanR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\MovingCatTristanR\MovingCatTristanR\obj\Debug\MovingCatTristanR.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\MovingCatTristanR\MovingCatTristanR\obj\Debug\MovingCatTristanR.pdb

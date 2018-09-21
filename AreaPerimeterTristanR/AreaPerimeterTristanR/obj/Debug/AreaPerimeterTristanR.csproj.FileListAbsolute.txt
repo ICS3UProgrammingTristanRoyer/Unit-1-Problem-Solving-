@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\AreaPerimeterTristanR\AreaPerimeterTristanR\obj\Debug\AreaPerimeterTristanR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\AreaPerimeterTristanR\AreaPerimeterTristanR\obj\Debug\AreaPerimeterTristanR.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\AreaPerimeterTristanR\AreaPerimeterTristanR\obj\Debug\AreaPerimeterTristanR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\AreaPerimeterTristanR\AreaPerimeterTristanR\obj\Debug\AreaPerimeterTristanR.AreaPeriForm.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\AreaPerimeterTristanR\AreaPerimeterTristanR\bin\Debug\AreaPerimeterTristanR.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\AreaPerimeterTristanR\AreaPerimeterTristanR\bin\Debug\AreaPerimeterTristanR.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\AreaPerimeterTristanR\AreaPerimeterTristanR\bin\Debug\AreaPerimeterTristanR.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\AreaPerimeterTristanR\AreaPerimeterTristanR\obj\Debug\AreaPerimeterTristanR.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Unit 1 (Problem Solving)\AreaPerimeterTristanR\AreaPerimeterTristanR\obj\Debug\AreaPerimeterTristanR.pdb
