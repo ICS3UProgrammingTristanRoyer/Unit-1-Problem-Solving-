@@ -40,24 +40,27 @@ namespace PizzaCostTristanR
 			
 			// calculates the subtotal and displays it
 			subtotal = (0.75 + 0.99 + 0.50 * diameter) * amount;
-			this.lblSubtotal.Text = String.Format("${0:0.00}",subtotal) ;
+			this.lblSubtotal.Text = String.Format("${0:0.00}",subtotal);
 
 
 			// calculates the tax and displays it
 			tax = subtotal * 0.13;
-			tax = Math.Round(tax, 2, MidpointRounding.AwayFromZero);
-			this.lblTax.Text = " $ " + Convert.ToString(tax);
+			this.lblTax.Text = String.Format ("${0:0.00}", tax);
 
 			// calculates the total and displays it
 			total = subtotal + tax;
-			total = Math.Round(total, 2, MidpointRounding.AwayFromZero);
-			this.lblTotal.Text = " $ " + Convert.ToString(total);
+			this.lblTotal.Text = String.Format( "${0:0.00}", total);
 
 
 
 		}
 
 		private void PizzaCostForm_Load(object sender, EventArgs e)
+		{
+
+		}
+
+		private void nudAmount_ValueChanged(object sender, EventArgs e)
 		{
 
 		}

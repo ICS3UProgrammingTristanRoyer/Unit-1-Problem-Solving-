@@ -120,7 +120,7 @@
             0,
             0});
 			this.nudAmount.Minimum = new decimal(new int[] {
-            3,
+            1,
             0,
             0,
             0});
@@ -132,6 +132,7 @@
             0,
             0,
             0});
+			this.nudAmount.ValueChanged += new System.EventHandler(this.nudAmount_ValueChanged);
 			// 
 			// btnPrice
 			// 

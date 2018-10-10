@@ -1,4 +1,10 @@
-﻿
+﻿/*
+ * Created by: Tristan Royer
+ * Created on: 9th October 2018
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #10 - Circumference 
+ * This program displays a circumference based on the radius value input by the user
+*/
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -36,6 +42,12 @@ namespace CircumfTristanR
 
 			//Insert the Circumference
 			this.lblAnswer.Text = Convert.ToString(circumference) + " squared meters";
+		}
+
+		private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			// closes the program
+			this.Close();
 		}
 	}
 }
